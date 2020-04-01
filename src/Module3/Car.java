@@ -8,6 +8,7 @@ public class Car {//object class
     String company;
     int seats;
     String type;
+    //git check
 
     String interior;
     String color;

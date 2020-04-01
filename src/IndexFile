@@ -1,0 +1,36 @@
+# Module3 #
+-module3
+    -Global_and_Local
+    -Static-Non_static
+    -Car
+
+1)Global and local --self explanatory(Run)
+2)Static-Non_static --all inside(run)
+3)object orientation and what is object---->Car.java(run)[
+    constructors
+    this.xyz
+    constructor overloading
+
+
+# Module 4 #
+
+Files included are
+-module4
+    -animal.java
+    -wildlife.java
+    -school
+    -teacher
+    -Institutedatabase
+
+1) Inheritance
+parent class for inheritance = animal.java
+        -animal.java(run)
+        -wildlife.java
+
+2)encapsulation
+    -school
+    -teacher
+    -Institutedatabase(run)
+
+
+

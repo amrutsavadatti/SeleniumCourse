@@ -1,0 +1,18 @@
+flow:
+trycatchEg
+finallyEg
+functionsEg
+throwEg
+throwsEg
+
+portion:
+
+explain what are exceptions
+give examples of indexoutofbounds, filenotfound, dividebyzero etc
+explain try catch block
+explain final and finally
+explain where to place try catch block in functions
+explain difference between exceptions and errors and throwables using diagram
+explain Throw
+explain Throws
+
